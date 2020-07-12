@@ -5,7 +5,7 @@ AtCoderの問題を自分なりに解いてみた
 
 ABC:AtCoderBeginnerContest(初心者向け)  
 ARC:AtcoderRegularContest(中級者向け)  
-AGC:AtConderGrandContest(上級者向け)  
-とそのほかのコンテストOtherに分けられます。  
+AGC:AtConderGrandContest(上級者向け)と  
+そのほかのコンテストOtherに分けられます。  
 antbook：蟻本の問題  
 PAST：アルゴリズム技能検定問題も少しやっています。  
